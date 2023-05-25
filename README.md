@@ -1,7 +1,7 @@
 # credit-risk-classification
 
 ## Overview of the Analysis
-
+The purpose of this analysis was to evaluate a model based on loan risk. A dataset of historical lending activity from a peer-to-peer lending services company was used to build a model that can identify the creditworhiness of borrowers. The data was split into testing and training sets and a logistic regression was performed with the original data. The model was then evaluated by calculating the accuracy score, generating the confusion matrix and by printing the classification report. The resampled training data was used to predict a logistic regression mdoel. The model's performance was evaluated by generating a confusion matrix and generating a classification report. 
 
 ## Results 
 * Machine Learning Model 1:
